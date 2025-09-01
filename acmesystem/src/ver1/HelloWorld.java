@@ -5,4 +5,9 @@ public class HelloWorld {
 		System.out.println("Hello from eclipse....");
 		System.out.println("Ronny is working by himself.");
 	}	
+	
+	public static void heyNow() {
+		String msg = "hey now!";
+		System.out.println(msg);
+	}
 }
